@@ -1,0 +1,6 @@
+{
+  "name": "Soldier E-Sports",
+  "description": "The official landing page and tournament portal for Soldier E-Sports, including upcoming tournaments, terms & conditions, and privacy policies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
